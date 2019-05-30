@@ -1,6 +1,8 @@
-- Hackathon Cases 
+- Программа хакатона
 
-  - [Case №1 Fortum](case1.md)
-  - [Case №2 EDF](case2.md)
-  - [Case №3 MinstroyRF](case3.md)
+- Кейсы хакатона
+
+  - [Кейс №1 Фортум](case1.md)
+  - [Кейс №2 EDF](case2.md)
+  - [Кейс №3 МинстройРФ](case3.md)
 
