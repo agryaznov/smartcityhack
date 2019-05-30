@@ -1,3 +1,3 @@
-# SmartCityHack Knowledgebase
+# Smart Sustainable City Hack Knowledgebase
 
-> Awesome projects!
+> Всем привет и добро пожаловать на Smart Sustainable City Hack!
