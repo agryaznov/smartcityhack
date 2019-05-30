@@ -1,3 +1,3 @@
-# Headline
+# SmartCityHack Knowledgebase
 
-> An awesome project.
+> Awesome projects!
