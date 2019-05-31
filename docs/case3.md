@@ -69,6 +69,6 @@ GET /object/parameter/{id}/ после ввода id в строке value вы�
 
 ## [Описания сигналов](https://docs.google.com/spreadsheets/d/15RGzyjCAb47tFevEBXVzud6O4dIoM3wsuogCeOuI4fA/edit?usp=sharing)
 
-## [Материалы вебинара А. Чикова (Департамент градостроительной политики г. Москвы](https://drive.google.com/drive/folders/11jxFMPsKyXcVfA9OzXrZL45kLadH_eAE?usp=sharing)
+## [Материалы вебинара А. Чикова (Департамент градостроительной политики г. Москвы)](https://drive.google.com/drive/folders/11jxFMPsKyXcVfA9OzXrZL45kLadH_eAE?usp=sharing)
 
 
