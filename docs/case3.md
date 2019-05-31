@@ -67,6 +67,8 @@ GET /object/ перечень сигналов с указанием id
 
 GET /object/parameter/{id}/ после ввода id в строке value выводится значение параметра 
 
-## [Описания сигналов]
+## [Описания сигналов](https://docs.google.com/spreadsheets/d/15RGzyjCAb47tFevEBXVzud6O4dIoM3wsuogCeOuI4fA/edit?usp=sharing)
+
+## [Материалы вебинара А. Чикова (Департамент градостроительной политики г. Москвы](https://drive.google.com/drive/folders/11jxFMPsKyXcVfA9OzXrZL45kLadH_eAE?usp=sharing)
 
 
