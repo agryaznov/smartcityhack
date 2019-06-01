@@ -14,10 +14,10 @@
 
 ## Пример данных, которыми можно воспользоваться:
 
-https://data.nsw.gov.au/data/dataset NWS Open Data Portal
-Barcelona City Council http://www.barcelona.cat/en/
-OpenDataBCN https://opendata-ajuntament.barcelona.cat/en
-London DataStore http://data.london.gov.uk/
-Портал открытых данных Москвы http://data.mos.ru/
-Портал открытых данных Санкт-Петербурга http://data.gov.spb.ru/opendata/
-Портал открытых данных г. Нью-Йорка https://opendata.cityofnewyork.us/
+- https://data.nsw.gov.au/data/dataset NWS Open Data Portal
+- Barcelona City Council http://www.barcelona.cat/en/ 
+- OpenDataBCN https://opendata-ajuntament.barcelona.cat/en
+- London DataStore http://data.london.gov.uk/
+- Портал открытых данных Москвы http://data.mos.ru/
+- Портал открытых данных Санкт-Петербурга http://data.gov.spb.ru/opendata/
+- Портал открытых данных г. Нью-Йорка https://opendata.cityofnewyork.us/
